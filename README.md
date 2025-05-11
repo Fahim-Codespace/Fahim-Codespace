@@ -1,3 +1,5 @@
+<img src = "banner.png" alt = "Github Banner" width="100%" />
+
 ## Hi there 👋
 
 
