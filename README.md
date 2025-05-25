@@ -2,18 +2,19 @@
 
 ## 
 <h1 align="center">Hi 👋, I'm Fahim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer , ML & AI enthusiast </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fahim-codespace&label=Profile%20views&color=0e75b6&style=flat" alt="fahim-codespace" /> </p>
 
 
-- 🔭 I’m currently working on **xyz**
+- 🔭 I’m currently working on **Front-End web dev**
 
-- 🌱 I’m currently learning **jsc**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
-- 👯 I’m looking to collaborate on **abc**
 
-- 👨‍💻 All of my projects are available at [scns](scns)
+- 👯 I’m looking to collaborate on <strong>I don't know yet</strong> <img src="https://github.com/user-attachments/assets/b1877e15-d9bd-4977-9038-ba3642023929" width="20" style="vertical-align: middle;" />
+
+- 👨‍💻 All of my projects are available at [website](scns)
 
 
 ###
@@ -126,7 +127,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NoNzA0OXUxNmFuNzUyOGN5ZjNicHpydzdpMGdpcWM2ejRidHlqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bb5jcIADH9ewHnpl9/giphy.gif"  />
+<!-- <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NoNzA0OXUxNmFuNzUyOGN5ZjNicHpydzdpMGdpcWM2ejRidHlqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3bb5jcIADH9ewHnpl9/giphy.gif"  /> -->
 
 
 
