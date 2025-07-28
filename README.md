@@ -1,7 +1,7 @@
-<img src = "banner.png" alt = "Github Banner" width="100%" />
+<!--<img src = "banner.png" alt = "Github Banner" width="100%" /> -->
 
 ## 
-<h1 align="center">Hi 👋, I'm Fahim</h1>
+<h1 align="center">Hi 👋, I'm Md.Fahim</h1>
 <h3 align="center">A passionate frontend developer , ML & AI enthusiast </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fahim-codespace&label=Profile%20views&color=0e75b6&style=flat" alt="fahim-codespace" /> </p>
